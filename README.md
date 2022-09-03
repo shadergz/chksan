@@ -1,6 +1,6 @@
 # chksan
 
-A very simple checker against possible malwares inside desired block devices
+A very simple checker against possible malware inside desired block devices
 ## How to build
 ~~~bash
 make all
